@@ -22,7 +22,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinithi1625403&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vichanuka&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinithi1625403&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichanuka&layout=compact&theme=tokyonight)
 
