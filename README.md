@@ -8,7 +8,7 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/chanuka-dilshan-it-uom/)
+![LinkedIn](https://www.linkedin.com/in/chanuka-dilshan-it-uom/)
 
 ---
 
