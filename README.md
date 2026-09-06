@@ -61,8 +61,6 @@ I am an IT undergraduate passionate about transforming raw ideas into robust, pr
 
 ### 🐍 Contribution Graph Animation
 
-> *Note: The snake animation will appear automatically once you commit `.github/workflows/snake.yml` to your `vichanuka` repository on GitHub!*
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vichanuka/vichanuka/output/github-contribution-grid-snake-dark.svg">
