@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Chanuka Dilshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"></h1>
 
-<p align="center">
-  <img src="https://github.com/vichanuka.png" width="160" style="border-radius: 50%;" alt="Chanuka Dilshan"/>
-</p>
+
 
 <!-- Animated Typing Introduction -->
 <p align="center">
